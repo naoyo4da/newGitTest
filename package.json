@@ -1,1 +1,19 @@
 {
+  "name": "newgittest",
+  "version": "1.0.0",
+  "description": "12311443",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naoyo4da/newGitTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naoyo4da/newGitTest/issues"
+  },
+  "homepage": "https://github.com/naoyo4da/newGitTest#readme"
+}
